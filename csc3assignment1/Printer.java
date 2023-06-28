@@ -1,4 +1,4 @@
-package com.example.csc3assignment1;
+//This class defines the printer object used in the Quick Inking Application
 
 public class Printer {
 
